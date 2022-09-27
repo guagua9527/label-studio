@@ -81,8 +81,30 @@ The component parts of Label Studio are available as modular extensible packages
 | [Data Manager](https://github.com/heartexlabs/dm2) | JavaScript web app using [React](https://reactjs.org/) | Manage data and tasks for labeling. |
 | [Machine Learning Backends](https://github.com/heartexlabs/label-studio-ml-backend) | Python | Predict data labels at various parts of the labeling process. |
 
+The following figure shows the different components in Label Studio architecture.
 <br>
-<div style="margin:auto; text-align:center;"><img src="/images/ls-modules-scheme.png" style="opacity: 0.8"/></div>
+<div style="margin:auto; text-align:center;"><img src="/images/ls-modules-scheme.png" style="opacity: 0.8" class="gif-border"/></div>
+<i>Figure 1: Overview of Label Studio architecture.</i>
+
+
+<i class='ent'/></i> The following figure shows the labeled UI elements in Workspace view.
+<br>
+<div style="margin:auto; text-align:center;"><img src="/images/workspace.png" style="opacity: 0.8" class="gif-border"/></div>
+<i>Figure 2: Workspace iew.</i>
+
+
+<i class='ent'/></i> The following figure shows the labeled UI elements in Quick view.
+<br>
+<div style="margin:auto; text-align:center;"><img src="/images/quickview.png" style="opacity: 0.8" class="gif-border"/></div>
+<i>Figure 3. Quick view.</i>
+
+
+<i class='ent'/></i> The following figure shows the labeled UI elements in Data Manager.
+<br>
+<div style="margin:auto; text-align:center;"><img src="/images/data-manager.png" style="opacity: 0.8" class="gif-border"/></div>
+<i>Figure 4: Data Manager view.</i>
+
+
 <!--update to include data manager--> 
 
 ## Information collected by Label Studio
